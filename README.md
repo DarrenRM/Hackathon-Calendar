@@ -23,6 +23,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [tribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 4.1 - 4.3 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
+| [C4YT - Crypto for Your Thoughts](https://c4yt.io/) | San Francisco, CA | 4.6 - 4.8 |
 | [Bitcamp](http://bitca.mp/) | College Park, MD | 4.8 - 4.10 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
 | [HackRU](http://hackru.org/) | Piscataway, NJ | 4.16 - 4.17 |
